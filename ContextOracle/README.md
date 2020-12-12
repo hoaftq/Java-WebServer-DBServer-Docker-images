@@ -1,0 +1,2 @@
+This context is missing Oracle installer file named winx64_12201_database.zip, so please download it from the link below before building the image
+	http://www.oracle.com/technetwork/database/enterprise-edition/downloads/oracle12c-windows-3633015.html
